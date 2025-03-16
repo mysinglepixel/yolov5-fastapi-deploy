@@ -7,7 +7,7 @@ Record problems encountered during deployment and their solutions
 
 在模型本身训练好后，将模型文件转为中间表示，再使用推理引擎进行剪枝和量化，即可封装为API进行使用了
 
-## YOLOv5的应用范围与基本框架
+## YOLOv5的基本框架
 
 YOLO系列属于目标检测算法，使用标注数据进行有监督学习。
 
